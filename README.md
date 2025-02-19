@@ -11,4 +11,4 @@ Data Preprocessing (Andromeda score cutoff and different duplicate removal strat
 
 Input feature engineering including creation of amino acid coefficients using SVR
 
-SVR and some Random Forest Models
+SVR and some Random Forest Models for final predictions
