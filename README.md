@@ -1,11 +1,14 @@
 # peptide-RT-in-RPLC
-machine learning approaches to predict Peptide Retention Time in Reverse Phase Liquid Chromatography 
+Machine Learning approaches to predict Peptide Retention Time in Reverse Phase Liquid Chromatography 
 
+Group project between 4 people
 
-group project between 4 people
+Parts done by me:
 
-parts done by me:
+Data distributions analyis
 
-Feature extraction
+Data Preprocessing (Andromeda score cutoff and different duplicate removal strategies)
 
-SVR and some Random Forest
+Input feature engineering including creation of amino acid coefficients using SVR
+
+SVR and some Random Forest Models
